@@ -12,14 +12,14 @@ export default {
     themes: [
       {
         saasstartertheme: {
-          "primary": "#180042",
-          "primary-content": "#fefbf6",
-          "neutral-content": "#fefbf6",
-          "secondary": "#c7b9f8",
-          "accent": "#db2777",
-          "neutral": "#180042",
-          "base-content": "#180042",
-          "base-100": "#fefbf6",
+          "primary": "#693FF3",
+          "primary-content": "#F8F9FA",
+          "neutral-content": "#F8F9FA",
+          "secondary": "#693FF3",
+          "accent": "#693FF3",
+          "neutral": "#693FF3",
+          "base-content": "#161817",
+          "base-100": "#F8F9FA",
         },
       }
     ],

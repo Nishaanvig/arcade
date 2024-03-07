@@ -23,7 +23,7 @@
   <div class="drawer-content">
     <div class="navbar bg-base-100 lg:hidden">
       <div class="flex-1">
-        <a class="btn btn-ghost normal-case text-xl" href="/">TDA Arcade</a>
+        <a class="btn btn-ghost normal-case text-xl" href="/">TDA Hub</a>
       </div>
       <div class="flex-none">
         <div class="dropdown dropdown-end">
@@ -96,9 +96,8 @@
 
       <li>
         <a
-          href="/account/"
-          target="_blank"
-          class={adminSection === "newsclues" ? "active" : ""}
+          href="/account/newsletters/"
+          class={adminSection === "newsletter" ? "active" : ""}
           on:click={closeDrawer}
         >
           <svg

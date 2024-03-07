@@ -9,7 +9,7 @@
       <img
         class="logo"
         loading="lazy"
-        src="images/TDA-Logo-Icon.svg"
+        src="/images/TDA-Logo-Icon.svg"
         alt="Logo"
       />
     </a>

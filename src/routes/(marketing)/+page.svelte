@@ -34,6 +34,9 @@
           >Hub</span
         >
       </div>
+      <div>
+        <h3>Become smarter in three minutes.</h3>
+      </div>
       <div class="mt-6 md:mt-2">
         <a href="/login/sign_up/">
           <button class="btn btn-primary btn-sm px-6">Sign up</button>

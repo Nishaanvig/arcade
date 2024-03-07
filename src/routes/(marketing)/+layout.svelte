@@ -44,9 +44,8 @@
         <li><a href="/pricing">Pricing</a></li>
         <li><a href="/account">Account</a></li>
         <li>
-          <a
-            href="https://github.com/CriticalMoments/CMSaasStarter"
-            class="border border-primary">★ us on Github</a
+          <a href="https://thedailyaus.com.au/" class="border border-primary"
+            >Visit our website</a
           >
         </li>
       </ul>
@@ -71,24 +70,9 @@
       <a class="link link-hover my-1" href="/pricing">Pricing</a>
       <a class="link link-hover my-1" href="/blog">Blog</a>
       <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
-      <a
-        class="link link-hover my-1"
-        href="https://github.com/CriticalMoments/CMSaasStarter">Github</a
+      <a class="link link-hover my-1" href="https://thedailyaus.com.au"
+        >Website</a
       >
     </nav>
-    <aside>
-      <span class="footer-title opacity-80">Sponsor</span>
-      <a
-        class="link link-hover max-w-[260px]"
-        href="https://criticalmoments.io"
-      >
-        <img
-          alt="Critical Moments Logo"
-          src="/images/cm_logo.svg"
-          class="w-[180px] mb-3 aspect-[420/154]"
-        />
-        Make mobile apps? Improve conversion rates and ratings with Critical Moments.
-      </a>
-    </aside>
   </footer>
 </div>

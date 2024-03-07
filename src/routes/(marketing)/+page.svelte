@@ -7,7 +7,7 @@
   <meta name="description" content="{PUBLIC_SITE_NAME} Home Page" />
 </svelte:head>
 
-<div class="hero min-h-[60vh]">
+<div class="hero min-h-[70vh]">
   <div class="hero-content text-center py-12">
     <div class="max-w-xl">
       <div
@@ -35,7 +35,7 @@
         >, and
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >free</span
+          >fun</span
         >
         <span> games online</span>
       </div>

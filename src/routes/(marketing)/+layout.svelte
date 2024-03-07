@@ -4,7 +4,6 @@
 
 <div class="navbar bg-base-100 container mx-auto">
   <div class="flex-1">
-    <!-- <a class="btn btn-ghost normal-case text-xl" href="/">TDA Arcade</a> -->
     <a href="/">
       <img
         class="logo"

@@ -66,7 +66,7 @@
 <div
   class="flex flex-col lg:flex-row mx-auto my-4 min-h-[70vh] place-items-center lg:place-items-start place-content-center"
 >
-  <div
+  <!-- <div
     class="max-w-[400px] lg:max-w-[500px] flex flex-col place-content-center p-4 lg:mr-8 lg:mb-8 lg:min-h-[70vh]"
   >
     <div class="px-6">
@@ -84,7 +84,7 @@
         😉
       </p>
     </div>
-  </div>
+  </div> -->
 
   <div
     class="flex flex-col flex-grow m-4 lg:ml-10 min-w-[300px] stdphone:min-w-[360px] max-w-[400px] place-content-center lg:min-h-[70vh]"

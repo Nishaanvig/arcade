@@ -95,6 +95,7 @@
       <li>
         <a
           href="https://emojimashv2-production.up.railway.app/"
+          target="_blank"
           class={adminSection === "newsclues" ? "active" : ""}
           on:click={closeDrawer}
         >

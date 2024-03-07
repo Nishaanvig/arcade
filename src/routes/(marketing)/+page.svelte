@@ -13,7 +13,11 @@
       <div
         class="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent mb-4 md:mb-8"
       >
-        The Daily Aus Arcade
+        <img
+          class="rubixcube"
+          src="https://thedailyaus.com.au/wp-content/uploads/2024/02/TDA_Rubix-Cube-.png"
+          alt="Rubix Cube"
+        />
       </div>
 
       <div
@@ -34,16 +38,6 @@
           >free</span
         >
         <span> games online</span>
-      </div>
-      <div class="mt-6 md:mt-10 text-sm md:text-lg">
-        Create a <a
-          href="/login/sign_up/"
-          class="link font-bold"
-          target="_blank">free account</a
-        >, or
-        <a href="/login/sign_in/" class="link font-bold" target="_blank"
-          >login</a
-        >, to play now.
       </div>
       <div class="mt-6 md:mt-2">
         <a href="/login/sign_up/">

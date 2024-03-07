@@ -19,3 +19,34 @@ button[disabled].authBtn::before {
   content: "Loading...";
   color: hsl(var(--pc));
 }
+
+.footer > * {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.p-10 {
+  padding: 20px;
+}
+
+.mb-1 {
+  margin-bottom: 0px;
+}
+
+.rubixcube {
+  width: 96px;
+  height: 96px;
+}
+.text-xl.md\:text-3xl.font-bold.bg-clip-text.text-transparent.bg-gradient-to-r.from-primary.to-accent.mb-4.md\:mb-8 {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+img.logo {
+  height: 60px;
+}

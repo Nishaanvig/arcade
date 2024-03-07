@@ -5,7 +5,14 @@
 <div class="navbar bg-base-100 container mx-auto">
   <div class="flex-1">
     <!-- <a class="btn btn-ghost normal-case text-xl" href="/">TDA Arcade</a> -->
-    <img class="logo" loading="lazy" src="/src/TDA-Logo-Icon.svg" alt="Logo" />
+    <a href="/">
+      <img
+        class="logo"
+        loading="lazy"
+        src="/src/TDA-Logo-Icon.svg"
+        alt="Logo"
+      />
+    </a>
   </div>
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1 hidden sm:flex font-bold text-lg">

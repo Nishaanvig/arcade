@@ -20,7 +20,7 @@
     },
     {
       name: "User Auth",
-      link: "/login",
+      link: "/login/sign_in/",
       description:
         "Sign up, sign out, forgot password, email verification, and oAuth. Powered by Supabase Auth.",
       svgContent: `<path
@@ -198,17 +198,20 @@
         <span> games online</span>
       </div>
       <div class="mt-6 md:mt-10 text-sm md:text-lg">
-        Create a <a href="/account" class="link font-bold" target="_blank"
-          >free account</a
+        Create a <a
+          href="/login/sign_up/"
+          class="link font-bold"
+          target="_blank">free account</a
         >, or
-        <a href="/account" class="link font-bold" target="_blank">login</a>, to
-        play now.
+        <a href="/login/sign_in/" class="link font-bold" target="_blank"
+          >login</a
+        >, to play now.
       </div>
       <div class="mt-6 md:mt-2">
-        <a href="/account">
+        <a href="/login/sign_up/">
           <button class="btn btn-primary btn-sm px-6">Create an account</button>
         </a>
-        <a href="/Login">
+        <a href="/login/sign_in/">
           <button class="btn btn-outline btn-primary btn-sm px-6 mt-3 mx-2"
             >Login</button
           >

@@ -4,14 +4,13 @@
 
 <div class="navbar bg-base-100 container mx-auto">
   <div class="flex-1">
-    <a class="btn btn-ghost normal-case text-xl" href="/">SaaS Starter</a>
+    <a class="btn btn-ghost normal-case text-xl" href="/">TDA Arcade</a>
   </div>
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1 hidden sm:flex font-bold text-lg">
       <li class="md:mx-4">
-        <a
-          href="https://github.com/CriticalMoments/CMSaasStarter"
-          class="border border-primary">★ us on Github</a
+        <a href="https://thedailyaus.com.au/" class="border border-primary"
+          >Visit our website</a
         >
       </li>
       <li class="md:mx-2"><a href="/blog">Blog</a></li>

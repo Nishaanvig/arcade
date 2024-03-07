@@ -14,9 +14,9 @@
         class="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent mb-4 md:mb-8"
       >
         <img
-          class="rubixcube"
-          src="https://thedailyaus.com.au/wp-content/uploads/2024/02/TDA_Rubix-Cube-.png"
-          alt="Rubix Cube"
+          class="subscriber-hub-logo"
+          src="/images/TDA_Mind-Blowing.png"
+          alt="Subscriber Hub Logo"
         />
       </div>
 
@@ -24,24 +24,19 @@
         class="text-4xl md:text-6xl font-bold px-2"
         style="line-height: 1.2;"
       >
-        Play
+        The Daily Aus
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >challenging</span
-        >,
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >multiplayer</span
-        >, and
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >fun</span
+          >Subscriber</span
         >
-        <span> games online</span>
+        <span
+          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
+          >Hub</span
+        >
       </div>
       <div class="mt-6 md:mt-2">
         <a href="/login/sign_up/">
-          <button class="btn btn-primary btn-sm px-6">Create an account</button>
+          <button class="btn btn-primary btn-sm px-6">Sign up</button>
         </a>
         <a href="/login/sign_in/">
           <button class="btn btn-outline btn-primary btn-sm px-6 mt-3 mx-2"

@@ -50,3 +50,11 @@ button[disabled].authBtn::before {
 img.logo {
   height: 60px;
 }
+
+.menu li {
+  margin-bottom: 10px;
+}
+
+.subscriber-hub-logo {
+  height: 6rem;
+}

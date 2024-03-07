@@ -23,7 +23,14 @@
   <div class="drawer-content">
     <div class="navbar bg-base-100 lg:hidden">
       <div class="flex-1">
-        <a class="btn btn-ghost normal-case text-xl" href="/">TDA Hub</a>
+        <a href="/">
+          <img
+            class="logo"
+            loading="lazy"
+            src="/images/TDA-Logo-Icon.svg"
+            alt="Logo"
+          />
+        </a>
       </div>
       <div class="flex-none">
         <div class="dropdown dropdown-end">
